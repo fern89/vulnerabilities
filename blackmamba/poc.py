@@ -1,4 +1,5 @@
 # https://github.com/loseys/BlackMamba EXPLOIT
+# Copyright fern89, 2024
 
 import socket
 import base64
